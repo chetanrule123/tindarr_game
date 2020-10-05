@@ -1,0 +1,7 @@
+{
+  "name": "tindarr-game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
