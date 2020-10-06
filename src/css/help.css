@@ -1,0 +1,30 @@
+.help{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: start;
+}
+.help .container{
+    height: 70%;
+    width: 75%;
+    max-width: 400px;
+    background: rgb(36, 36, 36);
+    padding: 30px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 1px 10px 0 rgba(255, 255, 255, 0.5);
+}
+.help .container div{
+    margin: 30px 0;
+}
+.help .title{
+    color:rgb(253, 106, 125);
+    font-size: 20px;
+}
+.help .info{
+    font-weight: 500;
+}
+.help .info strong{
+    color: rgb(85, 151, 250);
+}
